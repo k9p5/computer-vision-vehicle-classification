@@ -132,3 +132,4 @@ dmypy.json
 # else
 logs
 settings.json
+datapool/
