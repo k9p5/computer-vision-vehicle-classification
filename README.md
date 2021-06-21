@@ -3,6 +3,13 @@ This project has been developed at the Kempten University of Applied Sciences fo
 
 <br>
 
+## The Team
+- Jakob Bleickert: Video processing
+- Lukas Harzheim: Taking measurement
+- Konstantin Paulus: Image classification
+
+<br>
+
 ## Project Structure
 
 ``/saved_models`` <br>
