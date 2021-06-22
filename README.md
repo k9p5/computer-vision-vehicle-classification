@@ -1,12 +1,12 @@
 # Classifying and measuring vehicles
-This project has been developed at the Kempten University of Applied Sciences for the lecuture "Bildverarbeitung und maschinelles Sehen". **All rights reserved**
+This project has been developed at the Kempten University of Applied Sciences for the lecture "Bildverarbeitung und maschinelles Sehen". *All rights reserved*
 
 <br>
 
 ## The Team
 - Jakob Bleickert: Video processing
 - Lukas Harzheim: Taking measurements
-- Konstantin Paulus: Image classifications
+- Konstantin Paulus: Image classification
 
 <br>
 
